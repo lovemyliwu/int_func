@@ -4,7 +4,7 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+lein run name 100
 
 ## License
 
